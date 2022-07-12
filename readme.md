@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/38115792/178575397-8adc7634-e0e0-4feb-a85c-9e8ffd32f338.jpg">
 
-<h2> Olá, me chamo Ugo!.</h2>
+<h2> Olá, me chamo Ugo!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
@@ -28,8 +28,6 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Fale comigo!</h3>
 
