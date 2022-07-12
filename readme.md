@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/38115792/178575397-8adc7634-e0e0-4feb-a85c-9e8ffd32f338.jpg">
+<img src="https://user-images.githubusercontent.com/38115792/178608155-4bd49c56-b445-4501-a0cd-2d02875ff75c.jpg">
 
 <h2> Olá, me chamo Ugo!</h2>
 
