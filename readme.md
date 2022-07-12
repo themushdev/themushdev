@@ -33,8 +33,8 @@
 
 <h3> 🤝🏻 &nbsp;Fale comigo!</h3>
 
-<p align="center">
-<a href="https://digicom.myportfolio.com/"><img alt="Porfólio" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/urr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ugorramos2014@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<p align="left">
+<a href="https://digicom.myportfolio.com/"><img alt="Porfólio" src="https://img.shields.io/badge/Website-www.digicom.myportfolio.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/urr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ugo Ramos-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ugorramos2014@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ugorramos2014@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
