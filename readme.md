@@ -1,23 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello, Modern World!</title>
-    
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
-    
-    <link rel="stylesheet" href="style.css">
-    
-    <script src="script.js" defer></script>
-</head>
-<body>
-    <main class="content-card">
-        <h1>Hello, World!</h1>
-        <p>This is my first project, refactored with modern practices. I am learning to code and happy to share my progress with you!</p>
-        <button id="actionButton">Click Me</button>
-    </main>
-</body>
-</html>
+# Hi there, I'm Ugo or themushdev 👋
+
+I'm a developer and AI strategist specializing in building robust conversational AI systems. My focus is on creating intelligent agents that are not only functional but also secure, efficient, and provide a great user experience. I have a particular interest in prompt engineering and AI security testing (jailbreaking).
+
+My goal is to bridge the gap between business needs and technical implementation, architecting AI solutions that deliver real-world value.
+
+---
+
+### Core Competencies & Tech Stack
+
+Here are some of the technologies I'm currently working with:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+---
+
+### Current Project Spotlight
+
+I am currently developing **Donna Watson**, an AI-powered tutor for Business English. This project involves complex prompt engineering, workflow automation, and a multi-layered security architecture.
+
+[![Donna Watson AI Agent Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=agente-donna-watson&theme=dark&show_owner=true)](https://github.com/themushdev/agente-donna-watson)
+
+---
+
+### My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ugo's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark" alt="Ugo's Top Languages"/>
+</p>
+
+---
+
+### Let's Connect
+
+You can find me on LinkedIn. I'm always open to connecting with other professionals in the tech and AI space.
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/urr/)
