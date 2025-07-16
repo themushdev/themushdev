@@ -21,17 +21,20 @@ Here are some of the technologies I'm currently working with:
 
 ---
 
-### Current Project Spotlight
+### 🚀 Current Project Spotlight: Donna Watson AI Agent (Private Repository)
 
-I am currently developing **Donna Watson**, an AI-powered tutor for Business English. This project involves complex prompt engineering, workflow automation, and a multi-layered security architecture.
+I am currently architecting and developing **Donna Watson**, a state-of-the-art, AI-powered tutor for Business English. This project involves complex prompt engineering, n8n workflow automation, and a multi-layered security architecture to create a personalized and secure learning experience directly on WhatsApp.
 
-[![Donna Watson AI Agent Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=themushdev&repo=agente-donna-watson&theme=dark&show_owner=true)](https://github.com/themushdev/agente-donna-watson)
+-   **Core Technologies:** `n8n`, `OpenAI (GPT-4)`, `PostgreSQL`, `Git/GitHub`
+-   **Current Status:** In structured testing phase
+
+*Due to the proprietary nature of the prompt architecture, this repository is private.*
 
 ---
 
 ### My GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=themushdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ugo's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themushdev&layout=compact&theme=dark" alt="Ugo's Top Languages"/>
 </p>
