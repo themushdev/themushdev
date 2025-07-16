@@ -25,15 +25,15 @@ Here are some of the technologies I'm currently working with:
 
 I am currently developing **Donna Watson**, an AI-powered tutor for Business English. This project involves complex prompt engineering, workflow automation, and a multi-layered security architecture.
 
-[![Donna Watson AI Agent Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=agente-donna-watson&theme=dark&show_owner=true)](https://github.com/themushdev/agente-donna-watson)
+[![Donna Watson AI Agent Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=themushdev&repo=agente-donna-watson&theme=dark&show_owner=true)](https://github.com/themushdev/agente-donna-watson)
 
 ---
 
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ugo's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark" alt="Ugo's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=themushdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ugo's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themushdev&layout=compact&theme=dark" alt="Ugo's Top Languages"/>
 </p>
 
 ---
